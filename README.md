@@ -188,4 +188,8 @@ $
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p00ES-5K4C8" frameborder="0" allowfullscreen=""></iframe>
 
+# Authors
+[@TEOACEVEDO](https://github.com/TEOACEVEDO) -> Mateo Acevedo Vélez
+[@santiago1411](https://github.com/santiago1411) -> Santiago Alexander Osorno
+
   </div>
